@@ -17,7 +17,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<link rel="profile" href="https://gmpg.org/xfn/11" />
 	<?php wp_head(); ?>
-<?php echo "putain faut que ca marche bordel de merde x2";?>
+<?php echo "Hello world x3";?>
 
 </head>
 
